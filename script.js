@@ -3,6 +3,7 @@ function showMeet() {
     document.getElementById("no").style.display = "none";
     document.getElementById("question").style.display = "none";
     document.getElementById("meet").style.display = "block";
+    document.getElementById("hrt").style.display = "block";
 }
 
 function relocateNo() {
